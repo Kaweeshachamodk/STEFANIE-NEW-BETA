@@ -3,9 +3,9 @@
     "description": "Stefanie is a whats app user bot by virus fucker sir, modified version of asena",
     "logo": "https://telegra.ph/file/0edc0f3917fde20a7990a.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/Kaweeshachamodk/Stefanie-.",
-    "website":   "https://github.com/Kaweeshachamodk/Stefanie-.",
-    "success_url": "https://github.com/Kaweeshachamodk/Stefanie-.",
+    "repository": "https://github.com/Kaweeshachamodk/STEFANIE-NEW-BETA",
+    "website":   "https://github.com/Kaweeshachamodk/STEFANIE-NEW-BETA",
+    "success_url": "https://github.com/Kaweeshachamodk/STEFANIE-NEW-BETA",
     "stack": "container",
     "env": {
         "STEFANIE_SESSION": {
